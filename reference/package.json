@@ -13,6 +13,6 @@
   "dependencies": {
     "concurrently": "^9.2.1",
     "serve": "^14.2.5",
-    "vercel": "^48.1.4"
+    "vercel": "^50.17.0"
   }
 }
